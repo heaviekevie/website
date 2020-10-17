@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Test website name for Geraldo
 description: We can add information here about le business idea
+github:
+  is_project_page: false
