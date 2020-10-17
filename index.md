@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Template website for Geraldo
 
 You can use the [editor on GitHub](https://github.com/heaviekevie/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
