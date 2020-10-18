@@ -1,8 +1,10 @@
-## Welcome to 2KD Engineering
+# Welcome to 2KD Engineering
 
-[Call us now](tel:+447512315751)
+Our company brings the practical know how and technical calculations together to bring a design to our clients which surpasses their expectations. While doing so, our focus is on buildability, which will improve both the quality and speed of the overall build.
 
-# List of Services Offered
+2KD Engineering was founded by [BLANK], both of whom where educated at TUD Bolton Street with honours degrees in Structural Engineering, and have a combined experience of over 25 years dealing with Tier 1 contractors in both Ireland and the UK. 
+
+## List of Services Offered
 
 ```markdown
 1. Certificates of Compliance
@@ -15,38 +17,6 @@
 8. Design Work (Insulated Raft Foundation, ICF Masonry, Traditional Build)
 ```
 
-You can use the [editor on GitHub](https://github.com/heaviekevie/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Contact us
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heaviekevie/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Call us now](tel:+447512315751) or email us at: 2kdengineering@gmail.com
