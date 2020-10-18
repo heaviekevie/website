@@ -8,7 +8,7 @@ Our company brings the practical know how and technical calculations together to
 
 ```markdown
 1. Certificates of Compliance
-2. Property Buliding Inspections
+2. Property Building Inspections
 3. Snag Lists
 4. Project Management
 5. Surveying
