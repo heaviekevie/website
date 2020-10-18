@@ -1,4 +1,15 @@
-## Template website for Geraldo
+We offer the following services:
+
+```markdown
+- Certificates of Compliance
+- Property Buliding Inspections
+- Snag Lists
+- Project Management
+- Surveying
+- Monitoring
+- Site Engineering Services
+- Design Work (Insulated Raft Foundation, ICF Masonry, Traditional Build).
+```
 
 You can use the [editor on GitHub](https://github.com/heaviekevie/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
