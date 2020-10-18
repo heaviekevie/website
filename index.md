@@ -1,14 +1,18 @@
-We offer the following services:
+## Welcome to 2KD Engineering
+
+[Call us now](tel:+447512315751)
+
+# List of Services Offered
 
 ```markdown
-- Certificates of Compliance
-- Property Buliding Inspections
-- Snag Lists
-- Project Management
-- Surveying
-- Monitoring
-- Site Engineering Services
-- Design Work (Insulated Raft Foundation, ICF Masonry, Traditional Build).
+1. Certificates of Compliance
+2. Property Buliding Inspections
+3. Snag Lists
+4. Project Management
+5. Surveying
+6. Monitoring
+7. Site Engineering Services
+8. Design Work (Insulated Raft Foundation, ICF Masonry, Traditional Build)
 ```
 
 You can use the [editor on GitHub](https://github.com/heaviekevie/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
