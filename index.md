@@ -19,4 +19,4 @@ Our company brings the practical know how and technical calculations together to
 
 ## Contact us
 
-[Call us now](tel:+447512315751) or email us at: 2KDengineering@gmail.com
+[Call us now](tel:+353834189062) or email us at: 2KDengineering@gmail.com
