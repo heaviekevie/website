@@ -8,7 +8,7 @@ Our company brings the practical know how and technical calculations together to
 
 ### 1. [Certificates of Compliance](https://www.engineersireland.ie/Professionals/News-Insights/Campaigns-and-policies/Building-Regulations-and-Ancillary-Certificates)
 
-
+![certificate](compliance_photo.jpg)
 
 ### 2. Property Building Inspections
 ### 3. Snag Lists
